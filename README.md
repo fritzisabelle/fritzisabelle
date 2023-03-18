@@ -2,7 +2,7 @@
  💻 Front End Developer | 🌱 Fullstack developer at training in Kenzie Academy Brasil<br>
  
  ![fritzisabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fritzisabelle&count_private=true&show_icons=true&theme=radical&border_color=D93A7C)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fritzisabelle&theme=radical&border_color=D93A7C)](https://github.com/fritzisabelle/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fritzisabelle&theme=radical&border_color=D93A7C&layout=compact)](https://github.com/fritzisabelle/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
