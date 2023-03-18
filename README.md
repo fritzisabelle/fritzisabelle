@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Isabelle Bernardes!<br>
  💻 Front End Developer | 🌱 Fullstack developer at training in Kenzie Academy Brasil<br>
  
- ![fritzisabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fritzisabelle&count_private=true&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fritzisabelle&theme=radical)](https://github.com/fritzisabelle/github-readme-stats)
+ ![fritzisabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fritzisabelle&count_private=true&show_icons=true&theme=radical&border_color=D93A7C)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fritzisabelle&theme=radical&border_color=D93A7C)](https://github.com/fritzisabelle/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +14,7 @@
 
   ##
  
-<div> 
+<div> <br>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isabelle.bernardes2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/euisabellebernardes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
