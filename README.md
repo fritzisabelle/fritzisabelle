@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Isabelle Bernardes!<br>
+👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Isabelle+Bernardes!;I´m+a+Full+Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)<br>
  💻 Front End Developer | 🌱 Fullstack developer at training in Kenzie Academy Brasil<br>
  
  ![fritzisabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fritzisabelle&count_private=true&show_icons=true&theme=radical&border_color=D93A7C)
