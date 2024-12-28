@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Isabelle+Bernardes!;I´m+a+Full+Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)<br>
- 💻 Front End Developer | 🌱 Fullstack developer at training in Kenzie Academy Brasil<br>
+ 💻 Full Stack Developer specialized in ecommerce performance using Javascript/Typescript + Node.js<br>
  
  ![fritzisabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fritzisabelle&count_private=true&show_icons=true&theme=radical&border_color=D93A7C)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fritzisabelle&theme=radical&border_color=D93A7C&layout=compact)](https://github.com/fritzisabelle/github-readme-stats)
